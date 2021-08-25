@@ -12,4 +12,9 @@ We will analyze a subset of Yelp's business, reviews and user data. This dataset
 
 <img width="947" alt="notebook_configuration" src="https://user-images.githubusercontent.com/74834219/130509688-8d89d68b-9a8d-4c60-b35b-a62360b4dbcd.PNG">
 
+## Data Analysis
+Do Yelp Reviews Skew Negative?
 
+Should the Elite be Trusted?
+
+Which category of business is most/least popular?
